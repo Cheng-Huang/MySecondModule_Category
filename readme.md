@@ -1,0 +1,1 @@
+pod "MySecondModule_Category"

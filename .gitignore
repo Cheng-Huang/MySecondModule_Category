@@ -1,0 +1,7 @@
+MySecondModule_Category.xcodeproj/xcuserdata/
+MySecondModule_Category.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+MySecondModule_Category.xcodeproj/project.xcworkspace/xcuserdata/
